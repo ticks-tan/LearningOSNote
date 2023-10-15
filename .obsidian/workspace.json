@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52fe6ec6091d5fa9",
+        "id": "90181ab0aacee164",
         "type": "tabs",
         "children": [
           {
-            "id": "f485966ac09b06d8",
+            "id": "a8847274958e93db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f485966ac09b06d8",
+  "active": "a8847274958e93db",
   "lastOpenFiles": [
+    "docs/1-1011.md",
+    "README_DAILY1.md",
     "docs/1-1010.md",
     "docs/1-1009.md"
   ]
